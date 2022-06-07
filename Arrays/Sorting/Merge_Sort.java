@@ -1,5 +1,5 @@
 //Divide and Conquer
-//T.C = O(nlog(n) and S.C = O()
+//T.C = O(nlog(n) and S.C = O(n)
 public class Merge_Sort {
     static void printArray(int arr[]) {
         System.out.print("The Array is : ");
